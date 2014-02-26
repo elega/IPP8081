@@ -10,7 +10,7 @@
 <br/>
 ##当前目标
 <ul>
-    <li>中期检查报告<br/><strong>Due：2014/2/21</strong></li>
+    ---<li>中期检查报告<br/><strong>Due：2014/2/21</strong></li>---
     <li>项目日志<br/><strong>Due: 2014/3/3</strong></li>
 </ul>
 <br/>
